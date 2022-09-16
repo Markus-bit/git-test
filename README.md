@@ -1,7 +1,7 @@
 # Git commands
 git pull origin main(hente nyeste versjon)
 
-git status 
+git status <br>
 git add .
 git commit -m "commit melding"
 git push origin main
