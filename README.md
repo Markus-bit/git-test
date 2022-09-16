@@ -1,6 +1,5 @@
 # Git commands
-git pull origin main(hente nyeste versjon)
-
+git pull origin main(hente nyeste versjon)<br>
 git status<br>
 git add .<br>
 git commit -m "commit melding"<br>
