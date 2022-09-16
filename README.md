@@ -1,4 +1,5 @@
 # Git commands
+git pull origin main(hente nyeste versjon)
 
 git status 
 git add .
