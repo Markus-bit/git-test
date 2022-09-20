@@ -7,3 +7,5 @@ git push origin main<br>
 git checkout -b <branchname><br>
 git push origin branch name<br>
 git checkout main (tilbake til main)<br>
+
+test til logg
